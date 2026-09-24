@@ -1,4 +1,3 @@
-# craniosynostosis-survey-analysis
 # Craniosynostosis in U.S. Infants: A Parent-Reported Survey Analysis
 
 **Capstone project, M.S. Data Analytics, University of Houston–Downtown (Fall 2023)**

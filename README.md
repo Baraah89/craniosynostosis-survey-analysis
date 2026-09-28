@@ -1,8 +1,8 @@
 # Craniosynostosis in U.S. Infants: A Parent-Reported Survey Analysis
 
-** M.S. Data Analytics, University of Houston–Downtown (Fall 2023)**
-Author: Baraah Alshannaq · Advisor: Prof. Benjamin Soibam
+**Capstone project · M.S. Data Analytics, University of Houston–Downtown (Fall 2023)**
 
+Author: Baraah Alshannaq · Advisor: Prof. Benjamin Soibam
 ## Overview
 
 Craniosynostosis is a birth defect where an infant's skull bones fuse too early. It affects about 1 in 2,500 U.S. births. Most published research comes from clinical records. This project looks at the condition from the families' side: how and when children were diagnosed, which treatments they received, and how they are doing afterward.
@@ -47,6 +47,12 @@ Results are for the 398 children diagnosed with craniosynostosis.
 - **Quality of life:** 79% of parents rated their child's quality of life as excellent, and **66% were very satisfied** with treatment results.
 
 ## Limitations
+## Charts
+
+![Craniosynostosis types](figures/01_types.png)
+![Type by gender](figures/02_type_by_gender.png)
+![Early diagnosis by type](figures/04_early_diagnosis_by_type.png)
+![Treatment by age](figures/06_treatment_by_age.png)
 
 - **Self-selected sample:** respondents came from online support groups, so the sample over-represents Texas and White families. Results describe this group, not national prevalence.
 - **Few undiagnosed respondents:** with only 2 respondents without a diagnosis, the data cannot test whether family history is a risk factor.

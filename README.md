@@ -1,6 +1,6 @@
 # Craniosynostosis in U.S. Infants: A Parent-Reported Survey Analysis
 
-**Capstone project, M.S. Data Analytics, University of Houston–Downtown (Fall 2023)**
+** M.S. Data Analytics, University of Houston–Downtown (Fall 2023)**
 Author: Baraah Alshannaq · Advisor: Prof. Benjamin Soibam
 
 ## Overview
